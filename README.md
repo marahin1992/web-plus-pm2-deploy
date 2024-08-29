@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+IP адрес 84.201.144.33
+Frontend https://mesto-marahin1992.nomorepartiesco.ru/
+https://api.mesto-marahin1992.nomorepartiesco.ru/
